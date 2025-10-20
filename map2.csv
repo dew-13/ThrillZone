@@ -1,0 +1,6 @@
+ride_type,x,y,width,height,capacity,duration
+PirateShip,40,80,20,30,8,15
+FerrisWheel,100,80,25,25,10,25
+SpiderRide,160,80,30,30,12,20
+PirateShip,70,140,20,30,6,18
+FerrisWheel,130,140,25,25,8,30

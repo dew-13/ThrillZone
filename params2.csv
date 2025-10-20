@@ -1,0 +1,2 @@
+park_width,park_height,entrances,num_patrons,timesteps
+200,200,"10:10;190:10;100:190",25,150
