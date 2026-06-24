@@ -8,23 +8,6 @@ A complete Python simulation of a theme park with animated rides, intelligent pa
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Quick Start](#-quick-start)
-- [Requirements](#-requirements)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Configuration Files](#-configuration-files)
-- [Architecture](#-architecture)
-- [UI Dashboard](#-ui-dashboard)
-- [Color Scheme](#-color-scheme)
-- [Customization](#-customization)
-- [Troubleshooting](#-troubleshooting)
-- [Assignment Requirements](#-assignment-requirements)
-
----
-
 ## ✨ Features
 
 ### 🎢 Three Types of Animated Rides
